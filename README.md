@@ -9,4 +9,5 @@
 <p>
 2. <a href="https://softuni.bg/opencourses/data-science">Data Science - SoftUni</a>
 <br>2.1 <a href="2.1_Data%20Acquisition.ipynb">Data Acquisition</a>
+<br>2.2 <a href="2.2_Data%20Tidying%20and%20Cleaning.ipynb">Data Tidying and Cleaning</a>
 </p>

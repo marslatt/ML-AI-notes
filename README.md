@@ -6,7 +6,7 @@
 <br>1.4 <a href="1.04_Multiple%20linear%20regression.ipynb">Multiple linear regression</a>
 <br>1.5 <a href="1.05_Feature%20scaling%20-%20mean%20and%20z-score%20normalization.ipynb">Feature scaling - mean and z-score normalization</a>
 <br>1.6 <a href="1.06_Gradient%20descent%20convergence%20and%20learning%20rate.ipynb">Gradient descent convergence and learning rate</a> 
-<br>1.7 <a href="1.07_%20Feature%20engineering.%20Polynomial%20regression.ipynb">Feature engineering. Polynomial Regression</a>
+<br>1.7 <a href="1.07_%20Feature%20engineering.%20Polynomial%20regression.ipynb">Feature engineering. Polynomial regression</a>
 <br>1.8 <a href="1.08_Classification.%20Logistic%20regression.ipynb">Classification. Logistic regression</a> 
 <br>1.9 <a href="1.09_Overfitting%20and%20underfitting.%20Regularization.ipynb">Overfitting and underfitting. Regularization</a> 
 <p>

@@ -14,3 +14,7 @@
 <br>2.1 <a href="2.01_Data%20acquisition.ipynb">Data acquisition</a>
 <br>2.2 <a href="2.02_Data%20tidying%20and%20cleaning.ipynb">Data tidying and cleaning</a>
 </p>
+<p>
+3. MONAI Tutorials
+<br>3.1 <a href="3.01_CT%20Whole%20Body%20Segmentation%20with%20MONAI.ipynb">CT whole body segmentation with MONAI</a>
+</p>

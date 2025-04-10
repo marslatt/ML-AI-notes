@@ -15,7 +15,11 @@
 <br>2.2 <a href="2.02_Data%20tidying%20and%20cleaning.ipynb">Data tidying and cleaning</a>
 </p>
 <p>
-3. Guided Projects / Tutorials
-<br>3.1 Deep Learning with PyTorch : Image Segmentation
-<br>3.3 <a href="3.01_CT%20Whole%20Body%20Segmentation%20with%20MONAI.ipynb">CT whole body segmentation with MONAI</a>
+3. Course examples / Guided Projects / Tutorials
+<br>3.1  
+<br>3.2 
+<br>3.3 
+<br>3.4<a href="3.04_Extract%20text%20from%20image%20with%20pytesseract.ipynb">Extract text from image with pytesseract</a>
 </p>
+
+ 

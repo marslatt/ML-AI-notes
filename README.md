@@ -19,7 +19,7 @@
 <br>3.5 <a href="courses/3.05_Detect%20text%20in%20images%20-%20pytesseract%20vs.%20easyocr%20vs%20keras_ocr.ipynb">Detect text in images - pytesseract vs. easyocr vs keras_ocr</a>
 <br>3.6 <a href="courses/3.06_Simple%20linear%20regression.ipynb">Simple linear regression from scratch</a>  
 <br>3.6 <a href="courses/3.07_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>  
-<br>3.6 <a href="courses/3.08_Feature%20scaling%20-%20z-score%20normalization.ipynb">Feature scaling - z-score normalization</a>  
+<br>3.6 <a href="courses/3.08_Feature%20scaling.ipynb">Feature scaling</a>  
 </p>
 
  

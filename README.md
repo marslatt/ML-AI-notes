@@ -18,8 +18,9 @@
 <br>3.4 <a href="courses/3.04_Extract%20text%20from%20image%20with%20pytesseract.ipynb">Extract text from images with pytesseract</a>
 <br>3.5 <a href="courses/3.05_Detect%20text%20in%20images%20-%20pytesseract%20vs.%20easyocr%20vs%20keras_ocr.ipynb">Detect text in images - pytesseract vs. easyocr vs keras_ocr</a>
 <br>3.6 <a href="courses/3.06_Simple%20linear%20regression.ipynb">Simple linear regression from scratch</a>  
-<br>3.6 <a href="courses/3.07_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>  
-<br>3.6 <a href="courses/3.08_Feature%20scaling.ipynb">Feature scaling</a>  
+<br>3.7 <a href="courses/3.07_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>  
+<br>3.8 <a href="courses/3.08_Feature%20scaling.ipynb">Feature scaling</a> 
+<br>3.9 <a href="courses/3.09_Image%20segmentation%20with%20Unet%20using%20pytorch.ipynb">Image segmentation with Unet using pytorch.ipynb</a> 
 </p>
 
  

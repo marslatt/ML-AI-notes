@@ -20,7 +20,8 @@
 <br>3.6 <a href="courses/3.06_Simple%20linear%20regression.ipynb">Simple linear regression from scratch</a>  
 <br>3.7 <a href="courses/3.07_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>  
 <br>3.8 <a href="courses/3.08_Feature%20scaling.ipynb">Feature scaling</a> 
-<br>3.9 <a href="courses/3.09_Image%20segmentation%20with%20Unet%20using%20pytorch.ipynb">Image segmentation with Unet using pytorch.ipynb</a> 
+<br>3.9 <a href="courses/3.09_Image%20segmentation%20with%20Unet%20using%20pytorch.ipynb">Image segmentation with Unet using pytorch</a> 
+<br>3.10 <a href="courses/3.10_Polynomial%20regression.%20Selecting%20Features.ipynb">Polynomial regression. Selecting Features</a>     
 </p>
 
  

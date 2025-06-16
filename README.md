@@ -5,7 +5,7 @@
 <br>1.3 <a href="courses/1.03_Feature%20scaling%20-%20mean%20and%20z-score%20normalization.ipynb">Feature scaling - mean and z-score normalization</a>
 <br>1.6 <a href="courses/1.04_Gradient%20descent%20convergence%20and%20learning%20rate.ipynb">Gradient descent convergence and learning rate</a> 
 <br>1.7 <a href="courses/1.05_%20Feature%20engineering.%20Polynomial%20regression.ipynb">Feature engineering. Polynomial regression</a>
-<br>1.8 <a href="courses/1.06_Classification.%20Logistic%20regression.ipynb">Classification. Logistic regression</a> 
+<br>1.8 <a href="courses/1.06_Binary%20classification.%20Logistic%20regression.ipynb">Binary classification. Logistic regression</a> 
 <br>1.9 <a href="courses/1.07_Overfitting%20and%20underfitting.%20Regularization.ipynb">Overfitting and underfitting. Regularization</a> 
 <p>
 2. Coursera - Deep Learning Specialization (DeepLearning.AI)

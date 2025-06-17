@@ -15,13 +15,10 @@
 <br>3.1 <a href="courses/3.01_NumPy%20-%20slicing%2C%20vectorization%2C%20broadcasting.ipynb">NumPy - slicing, vectorization, broadcasting</a>   
 <br>3.2 <a href="courses/3.02_Pandas%20-%20data%20exploration">Pandas - data exploration</a>    
 <br>3.3 <a href="courses/3.03_Pandas%20-%20data%20tidying%20and%20cleaning.ipynb">Pandas - data tidying and cleaning</a>     
-<br>3.4 <a href=""> </a>
-<br>3.5 <a href=""></a>
-<br>3.6 <a href="courses/3.06_Simple%20linear%20regression.ipynb">Simple linear regression from scratch</a>  
-<br>3.7 <a href="courses/3.07_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>  
-<br>3.8 <a href="courses/3.08_Feature%20scaling.ipynb">Feature scaling</a> 
-<br>3.9 <a href=" "></a> 
-<br>3.10 <a href="courses/3.10_Polynomial%20regression.%20Selecting%20features.ipynb">Polynomial regression. Selecting features</a>     
+<br>3.4 <a href="courses/3.04_Simple%20linear%20regression.ipynb">Simple linear regression from scratch</a>  
+<br>3.5 <a href="courses/3.05_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>  
+<br>3.6 <a href="courses/3.06_Feature%20scaling.ipynb">Feature scaling</a> 
+<br>3.7 <a href="courses/3.07_Polynomial%20regression.%20Selecting%20features.ipynb">Polynomial regression. Selecting features</a>     
 </p>
 
  

@@ -20,6 +20,7 @@
 <br>3.6 <a href="courses/3.06_Feature%20scaling.ipynb">Feature scaling</a> 
 <br>3.7 <a href="courses/3.07_Logistic%20regression%20from%20scratch%20and%20with%20scikit-learn.ipynb">Logistic regression from scratch and with scikit-learn</a>
 <br>3.8 <a href="courses/3.08_Polynomial%20regression.%20Selecting%20features.ipynb">Polynomial regression. Selecting features</a> 
+<br>3.9 <a href="courses/3.09_Polynomial%20logistic%20regression%20with%20regularization%20from%20scratch%20and%20with%20scikit-learn.ipynb">Polynomial logistic regression with regularization from scratch and with scikit-learn</a>
 </p>
 
  

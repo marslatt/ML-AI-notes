@@ -15,7 +15,7 @@
 <br>3.1 <a href="courses/3.01_NumPy%20-%20slicing%2C%20vectorization%2C%20broadcasting.ipynb">NumPy - slicing, vectorization, broadcasting</a>   
 <br>3.2 <a href="courses/3.02_Pandas%20-%20data%20exploration">Pandas - data exploration</a>    
 <br>3.3 <a href="courses/3.03_Pandas%20-%20data%20tidying%20and%20cleaning.ipynb">Pandas - data tidying and cleaning</a>     
-<br>3.4 <a href="courses/3.04_Simple%20linear%20regression.ipynb">Simple linear regression from scratch</a>  
+<br>3.4 <a href="courses/3.04_Linear%20Regresison%20from%20scratch.ipynb">Simple linear regression from scratch</a>  
 <br>3.4 <a href="courses/3.05_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>     
 <br>3.6 <a href="courses/3.06_Feature%20scaling.ipynb">Feature scaling</a> 
 <br>3.7 <a href="courses/3.07_Logistic%20regression%20form%20scratch%20and%20with%20scikit-learn.ipynb">Logistic regression form scratch and with scikit-learn</a>

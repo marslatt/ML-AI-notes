@@ -17,9 +17,9 @@
 <br>3.3 <a href="courses/3.03_Pandas%20-%20data%20tidying%20and%20cleaning.ipynb">Pandas - data tidying and cleaning</a>     
 <br>3.4 <a href="courses/3.04_Linear%20Regresison%20from%20scratch.ipynb">Simple linear regression from scratch</a>  
 <br>3.4 <a href="courses/3.05_Multiple%20linear%20regression%20-%20from%20scratch%20and%20with%20scikit-learn.ipynb">Multiple linear regression - from scratch and with scikit-learn</a>     
-<br>3.6 <a href="courses/3.06_Feature%20scaling.ipynb">Feature scaling</a> 
+<br>3.6 <a href="courses/3.06_Feature%20scaling%20from%20scratch%20and%20with%20scikit-learn.ipynb">Feature scaling from scratch and with scikit-learn</a> 
 <br>3.7 <a href="courses/3.07_Logistic%20regression%20from%20scratch%20and%20with%20scikit-learn.ipynb">Logistic regression from scratch and with scikit-learn</a>
-<br>3.8 <a href="courses/3.08_Polynomial%20regression.%20Selecting%20features.ipynb">Polynomial regression. Selecting features</a> 
+<br>3.8 <a href="courses/3.08_Polynomial%20regression%20with%20scikit-learn.%20Selecting%20features.ipynb">Polynomial regression with scikit-learn. Selecting features</a> 
 <br>3.9 <a href="courses/3.09_Polynomial%20logistic%20regression%20with%20regularization%20from%20scratch%20and%20with%20scikit-learn.ipynb">Polynomial logistic regression with regularization from scratch and with scikit-learn</a>
 </p>
 

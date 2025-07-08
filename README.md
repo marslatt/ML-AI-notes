@@ -11,7 +11,7 @@
 2. Coursera - Deep Learning Specialization (DeepLearning.AI)
 </p>
 <p>
-3. Course examples / Guided Projects / Tutorials
+3. Course examples
 <br>3.1 <a href="courses/3.01_NumPy%20-%20slicing%2C%20vectorization%2C%20broadcasting.ipynb">NumPy - slicing, vectorization, broadcasting</a>   
 <br>3.2 <a href="courses/3.02_Pandas%20-%20data%20exploration">Pandas - data exploration</a>    
 <br>3.3 <a href="courses/3.03_Pandas%20-%20data%20tidying%20and%20cleaning.ipynb">Pandas - data tidying and cleaning</a>     

@@ -6,7 +6,7 @@
 <br>1.4 <a href="courses/1.04_Generalization%2C%20overfitting%20and%20underfitting.%20Regularization.ipynb">Generalization, overfitting and underfitting. Regularization</a> 
 <br>1.5 <a href="courses/1.05_Simple%20and%20Multiple%20linear%20regression.ipynb">Simple and Multiple linear regression</a>
 <br>1.6 <a href="courses/1.06_Feature%20scaling%20-%20mean%20and%20z-score%20normalization.ipynb">Feature scaling - mean and z-score normalization</a> 
-<br>1.7 <a href="courses/1.07_%20Feature%20engineering.%20Polynomial%20regression.ipynb">Feature engineering. Polynomial regression</a>
+<br>1.7 <a href="courses/1.07_Feature%20engineering.%20Polynomial%20regression.ipynb">Feature engineering. Polynomial regression</a>
 <br>1.8 <a href="courses/1.08_Binary%20classification.%20Logistic%20regression.ipynb">Binary classification. Logistic regression</a> 
 <br>1.9 <a href="courses/1.09_Neural%20networks%20-%20basics.ipynb">Neural networks - basics</a> 
 <br>1.10 <a href="courses/1.10_Building%20a%20neural%20network%20with%20Tensorflow.ipynb">Building a neural network with Tensorflow</a> 

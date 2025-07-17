@@ -10,7 +10,7 @@
 <br>1.8 <a href="courses/1.08_Binary%20classification.%20Logistic%20regression.ipynb">Binary classification. Logistic regression</a> 
 <br>1.9 <a href="courses/1.09_Neural%20networks%20-%20basics.ipynb">Neural networks - basics</a> 
 <br>1.10 <a href="courses/1.10_Building%20a%20neural%20network%20with%20Tensorflow.ipynb">Building a neural network with Tensorflow</a> 
-<br>1.10 <a href="courses/1.11_Softmax%20regression.%20Multiclass%20and%20multilabel%20classification.ipynb">1.11_Softmax regression. Multiclass and multilabel classification</a> 
+<br>1.10 <a href="courses/1.11_Softmax%20regression.%20Multiclass%20and%20multilabel%20classification.ipynb">Softmax regression. Multiclass and multilabel classification</a> 
 <p>
 2. Coursera - Deep Learning Specialization (DeepLearning.AI)
 </p>
